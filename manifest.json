@@ -1,0 +1,9 @@
+{
+  "name": "ProfilePro",
+  "short_name": "ProfilePro",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07111f",
+  "theme_color": "#0A66C2",
+  "icons": []
+}

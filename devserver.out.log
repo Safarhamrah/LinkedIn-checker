@@ -1,0 +1,47 @@
+
+> profilepro-linkedin-analyzer@0.1.0 dev
+> vite --host 127.0.0.1 --port 5173 --strictPort
+
+
+  [32m[1mVITE[22m v6.4.2[39m  [2mready in [0m[1m1194[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m5173[22m/[39m
+[2m9:54:29 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/Results.jsx, /src/index.css[22m
+[2m9:59:43 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/analyzer/BeforeAfter.jsx, /src/index.css[22m
+[2m9:59:43 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/analyzer/JobFit.jsx, /src/index.css[22m
+[2m10:03:34 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/analyzer/BeforeAfter.jsx, /src/index.css[22m
+[2m10:03:34 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/analyzer/JobFit.jsx, /src/index.css[22m
+[2m10:03:34 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/analyzer/BeforeAfter.jsx, /src/index.css[22m
+[2m10:08:27 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/Progress.jsx, /src/index.css, /src/pages/Results.jsx, /src/components/progress/ActivityCalendar.jsx, /src/components/progress/ActivitySummary.jsx, /src/components/progress/SavedReportsList.jsx[22m
+[2m2:58:15 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/Results.jsx, /src/index.css[22m
+[2m2:58:16 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/Results.jsx, /src/index.css[22m
+[2m2:58:29 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/analyzer/SmartFixes.jsx, /src/index.css[22m
+[2m10:54:36 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/Home.jsx, /src/index.css[22m
+[2m10:54:36 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/Home.jsx, /src/index.css[22m
+[2m10:54:51 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/Results.jsx, /src/index.css[22m
+[2m10:55:03 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/Progress.jsx, /src/index.css[22m
+[2m10:55:18 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/Progress.jsx, /src/index.css, /src/pages/Results.jsx, /src/components/progress/ActivityCalendar.jsx, /src/components/progress/ActivitySummary.jsx, /src/components/progress/SavedReportsList.jsx[22m
+[2m10:55:30 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/progress/SavedReportsList.jsx, /src/index.css[22m
+[2m10:56:06 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/Results.jsx, /src/index.css[22m
+[2m10:58:28 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/analyzer/SmartFixes.jsx, /src/index.css[22m
+[2m9:47:02 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/analyzer/SmartFixes.jsx, /src/index.css[22m
+[2m9:47:02 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/analyzer/SmartFixes.jsx, /src/index.css[22m
+[2m9:47:21 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/Results.jsx, /src/index.css[22m
+[2m9:58:01 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/analyzer/SmartFixes.jsx, /src/index.css[22m
+[2m9:58:01 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/analyzer/SmartFixes.jsx, /src/index.css[22m
+[2m10:11:16 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/Results.jsx, /src/index.css[22m
+[2m5:01:51 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/analyzer/SmartFixes.jsx, /src/index.css[22m
+[2m5:01:51 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/analyzer/SmartFixes.jsx, /src/index.css[22m
+[2m5:02:15 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/analyzer/SmartFixes.jsx, /src/index.css[22m
+[2m5:02:52 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/analyzer/SmartFixes.jsx, /src/index.css[22m
+[2m5:03:23 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/analyzer/SmartFixes.jsx, /src/index.css[22m
+[2m5:03:37 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/analyzer/SmartFixes.jsx, /src/index.css[22m
+[2m5:04:33 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/analyzer/KeywordsList.jsx, /src/index.css[22m
+[2m8:06:27 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/Results.jsx, /src/index.css[22m
+[2m8:06:46 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/Home.jsx, /src/index.css[22m
+[2m8:07:10 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/analyzer/AnalyzingLoader.jsx, /src/index.css[22m
+[2m8:08:20 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/progress/SavedReportsList.jsx, /src/index.css[22m
+[2m8:08:33 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/analyzer/SmartFixes.jsx, /src/index.css[22m
+[2m8:08:48 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/analyzer/SmartFixes.jsx, /src/index.css[22m
+[2m9:00:58 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/Results.jsx, /src/index.css[22m
+[2m9:00:59 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/Results.jsx, /src/index.css[22m
